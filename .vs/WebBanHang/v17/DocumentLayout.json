@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\Webtuhoc-workspace\\WebBanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6ED9E9C-D342-4AC7-8205-8991B43ABEB8}|WebBanHang\\WebBanHang.csproj|D:\\Workspace\\Webtuhoc-workspace\\WebBanHang\\webbanhang\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6ED9E9C-D342-4AC7-8205-8991B43ABEB8}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6ED9E9C-D342-4AC7-8205-8991B43ABEB8}|WebBanHang\\WebBanHang.csproj|D:\\Workspace\\Webtuhoc-workspace\\WebBanHang\\webbanhang\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6ED9E9C-D342-4AC7-8205-8991B43ABEB8}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6ED9E9C-D342-4AC7-8205-8991B43ABEB8}|WebBanHang\\WebBanHang.csproj|D:\\Workspace\\Webtuhoc-workspace\\WebBanHang\\webbanhang\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6ED9E9C-D342-4AC7-8205-8991B43ABEB8}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6ED9E9C-D342-4AC7-8205-8991B43ABEB8}|WebBanHang\\WebBanHang.csproj|D:\\Workspace\\Webtuhoc-workspace\\WebBanHang\\webbanhang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6ED9E9C-D342-4AC7-8205-8991B43ABEB8}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6ED9E9C-D342-4AC7-8205-8991B43ABEB8}|WebBanHang\\WebBanHang.csproj|d:\\workspace\\webtuhoc-workspace\\webbanhang\\webbanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6ED9E9C-D342-4AC7-8205-8991B43ABEB8}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6ED9E9C-D342-4AC7-8205-8991B43ABEB8}|WebBanHang\\WebBanHang.csproj|D:\\Workspace\\Webtuhoc-workspace\\WebBanHang\\WebBanHang\\Migrations\\20240618153828_Initv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6ED9E9C-D342-4AC7-8205-8991B43ABEB8}|WebBanHang\\WebBanHang.csproj|solutionrelative:WebBanHang\\Migrations\\20240618153828_Initv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6ED9E9C-D342-4AC7-8205-8991B43ABEB8}|WebBanHang\\WebBanHang.csproj|D:\\Workspace\\Webtuhoc-workspace\\WebBanHang\\webbanhang\\models\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6ED9E9C-D342-4AC7-8205-8991B43ABEB8}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\models\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6ED9E9C-D342-4AC7-8205-8991B43ABEB8}|WebBanHang\\WebBanHang.csproj|D:\\Workspace\\Webtuhoc-workspace\\WebBanHang\\webbanhang\\models\\entities\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6ED9E9C-D342-4AC7-8205-8991B43ABEB8}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\models\\entities\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240618153828_Initv1.cs",
+              "DocumentMoniker": "D:\\Workspace\\Webtuhoc-workspace\\WebBanHang\\WebBanHang\\Migrations\\20240618153828_Initv1.cs",
+              "RelativeDocumentMoniker": "WebBanHang\\Migrations\\20240618153828_Initv1.cs",
+              "ToolTip": "D:\\Workspace\\Webtuhoc-workspace\\WebBanHang\\WebBanHang\\Migrations\\20240618153828_Initv1.cs",
+              "RelativeToolTip": "WebBanHang\\Migrations\\20240618153828_Initv1.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:38:28.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\Webtuhoc-workspace\\WebBanHang\\WebBanHang\\Program.cs",
+              "RelativeDocumentMoniker": "WebBanHang\\Program.cs",
+              "ToolTip": "D:\\Workspace\\Webtuhoc-workspace\\WebBanHang\\WebBanHang\\Program.cs",
+              "RelativeToolTip": "WebBanHang\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:34:22.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Workspace\\Webtuhoc-workspace\\WebBanHang\\WebBanHang\\appsettings.json",
+              "RelativeDocumentMoniker": "WebBanHang\\appsettings.json",
+              "ToolTip": "D:\\Workspace\\Webtuhoc-workspace\\WebBanHang\\WebBanHang\\appsettings.json",
+              "RelativeToolTip": "WebBanHang\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-18T15:27:39.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\Workspace\\Webtuhoc-workspace\\WebBanHang\\WebBanHang\\Models\\Entities\\Supplier.cs",
+              "RelativeDocumentMoniker": "WebBanHang\\Models\\Entities\\Supplier.cs",
+              "ToolTip": "D:\\Workspace\\Webtuhoc-workspace\\WebBanHang\\WebBanHang\\Models\\Entities\\Supplier.cs",
+              "RelativeToolTip": "WebBanHang\\Models\\Entities\\Supplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:25:12.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Manufacturer.cs",
+              "DocumentMoniker": "D:\\Workspace\\Webtuhoc-workspace\\WebBanHang\\WebBanHang\\Models\\Entities\\Manufacturer.cs",
+              "RelativeDocumentMoniker": "WebBanHang\\Models\\Entities\\Manufacturer.cs",
+              "ToolTip": "D:\\Workspace\\Webtuhoc-workspace\\WebBanHang\\WebBanHang\\Models\\Entities\\Manufacturer.cs",
+              "RelativeToolTip": "WebBanHang\\Models\\Entities\\Manufacturer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:21:58.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Workspace\\Webtuhoc-workspace\\WebBanHang\\WebBanHang\\Models\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "WebBanHang\\Models\\Entities\\Category.cs",
+              "ToolTip": "D:\\Workspace\\Webtuhoc-workspace\\WebBanHang\\WebBanHang\\Models\\Entities\\Category.cs",
+              "RelativeToolTip": "WebBanHang\\Models\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:17:15.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Workspace\\Webtuhoc-workspace\\WebBanHang\\WebBanHang\\Models\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "WebBanHang\\Models\\Entities\\Product.cs",
+              "ToolTip": "D:\\Workspace\\Webtuhoc-workspace\\WebBanHang\\WebBanHang\\Models\\Entities\\Product.cs",
+              "RelativeToolTip": "WebBanHang\\Models\\Entities\\Product.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:14:22.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\Workspace\\Webtuhoc-workspace\\WebBanHang\\WebBanHang\\Models\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "WebBanHang\\Models\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\Workspace\\Webtuhoc-workspace\\WebBanHang\\WebBanHang\\Models\\ApplicationDBContext.cs",
+              "RelativeToolTip": "WebBanHang\\Models\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:06:07.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
